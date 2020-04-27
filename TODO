@@ -1,0 +1,179 @@
+1. Getting Started
+Anatomy of a Go program(Viewed)
+1m 55s
+Save Anatomy of a Go program
+The Go tools(Viewed)
+2m 4s
+Save The Go tools
+
+2. Go Basics
+Numbers and assignments(In progress)
+3m 38s
+Save Numbers and assignments
+Conditionals
+3m 37s
+Save Conditionals
+For loops
+2m 14s
+Save For loops
+Challenge: FizzBuzz
+48s
+Save Challenge: FizzBuzz
+Solution: FizzBuzz
+1m 12s
+Save Solution: FizzBuzz
+Strings
+2m 53s
+Save Strings
+Challenge: Even-ended numbers
+1m 52s
+Save Challenge: Even-ended numbers
+Solution: Even-ended numbers
+1m 18s
+Save Solution: Even-ended numbers
+Slices
+3m 5s
+Save Slices
+Challenge: Find the maximal value
+20s
+Save Challenge: Find the maximal value
+Solution: Find the maximal value
+50s
+Save Solution: Find the maximal value
+Maps
+2m 25s
+Save Maps
+Challenge: Maps
+22s
+Save Challenge: Maps
+Solution: Maps
+1m 2s
+Save Solution: Maps
+
+3. Functions
+Defining function
+1m 57s
+Save Defining function
+Parameter passing
+3m 3s
+Save Parameter passing
+Error return
+2m 27s
+Save Error return
+Defer
+1m 57s
+Save Defer
+Challenge: Write a function
+34s
+Save Challenge: Write a function
+Solution: Write a function
+1m 14s
+Save Solution: Write a function
+
+4. Object-Oriented
+Structs
+2m 27s
+Save Structs
+Methods
+2m 38s
+Save Methods
+New structs with functions
+1m 53s
+Save New structs with functions
+Challenge: Structs
+37s
+Save Challenge: Structs
+Solution: Structs
+1m 29s
+Save Solution: Structs
+Interfaces
+2m 26s
+Save Interfaces
+Challenge: Interfaces
+24s
+Save Challenge: Interfaces
+Solution: Interfaces
+1m 39s
+Save Solution: Interfaces
+
+5. Error Handling
+Package errors
+4m 20s
+Save Package errors
+Panic and recover
+3m 17s
+Save Panic and recover
+Challenge: Server kill
+57s
+Save Challenge: Server kill
+Solution: Server kill
+2m
+Save Solution: Server kill
+
+6. Concurrency
+Goroutines
+3m 21s
+Save Goroutines
+Channels
+3m 37s
+Save Channels
+Challenge: Channels
+16s
+Save Challenge: Channels
+Solution: Channels
+1m 11s
+Save Solution: Channels
+Select
+2m 20s
+Save Select
+Challenge: Files MD5 signature
+45s
+Save Challenge: Files MD5 signature
+Solution: Files MD5 signature
+5m 3s
+Save Solution: Files MD5 signature
+
+7. Project Management
+Imports
+2m 31s
+Save Imports
+Manage requirements
+1m 59s
+Save Manage requirements
+Testing
+3m 43s
+Save Testing
+Challenge: Testing
+11s
+Save Challenge: Testing
+Solution: Testing
+1m 36s
+Save Solution: Testing
+Benchmarking and profiling
+2m 19s
+Save Benchmarking and profiling
+
+8. Networking
+JSON
+3m 25s
+Save JSON
+HTTP calls
+3m 34s
+Save HTTP calls
+Challenge: Call the GitHub API
+58s
+Save Challenge: Call the GitHub API
+Solution: Call the GitHub API
+1m 42s
+Save Solution: Call the GitHub API
+GitHub HTTP server
+4m 36s
+Save GitHub HTTP server
+Challenge: Key-value database
+41s
+Save Challenge: Key-value database
+Solution: Key-value database
+4m 1s
+Save Solution: Key-value database
+
+Conclusion
